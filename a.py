@@ -28,6 +28,7 @@ for a in range(1,1000):
         numb=a
     e=(int)(a*10)
     y[e]=total
+    da=0;
 print(max)
 print(numb)
 map.plot(x,y,'b')
