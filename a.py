@@ -27,7 +27,6 @@ for a in range(1,1000):
         max=total
         numb=a
     e=(int)(a*10)
-    da=0;
     y[e]=total
 print(max)
 print(numb)
